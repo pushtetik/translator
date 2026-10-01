@@ -1,0 +1,21 @@
+DIM N AS INTEGER
+DIM R AS INTEGER
+
+PRINT "Введите целое число: "
+INPUT N
+
+R = N MOD 2
+
+IF R = 0 THEN
+    PRINT "Чётное"
+ELSE
+    PRINT "Нечётное"
+END IF
+
+PRINT "Проверка 2: "
+
+IF N MOD 2 = 0 THEN
+    PRINT "Чётное"
+ELSE
+    PRINT "Нечётное"
+END IF
