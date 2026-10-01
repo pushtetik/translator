@@ -15,7 +15,9 @@
 ---
 
 ## Архитектура транслятора
-<img width="650" height="660" alt="image" src="https://github.com/user-attachments/assets/903d77b7-7134-4809-90b2-bf06cbd2d642" />
+<img width="531" height="586" alt="image" src="https://github.com/user-attachments/assets/1d0e84fd-3cc5-48a6-aa2f-b3d51ca52206" />
+
+
 
 ## Поток данных между модулями
 
@@ -127,7 +129,11 @@ ELSE
     PRINT "Произведение больше или равно"
 END IF
 ```
-<img width="1335" height="965" alt="image" src="https://github.com/user-attachments/assets/a0c1d463-b9cc-45cc-9be2-fd70cca762f8" />
+<img width="273" height="1044" alt="image" src="https://github.com/user-attachments/assets/8810b2b6-1424-40b8-bc28-0b2ffc83820b" />
+<img width="974" height="173" alt="image" src="https://github.com/user-attachments/assets/d6893cca-7a0b-4612-811d-72f81b1eee42" />
+<img width="354" height="740" alt="image" src="https://github.com/user-attachments/assets/791276f5-f109-4ad4-8cd3-c7ddd9a323cd" />
+<img width="469" height="224" alt="image" src="https://github.com/user-attachments/assets/6c64e1a6-8725-448c-89b3-d82bcebe0393" />
+
 
 ---
 
